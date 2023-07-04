@@ -1,0 +1,23 @@
+{
+  "experience": {
+    "title": "Experience",
+    "expPiece": [{
+        "description": "**2020 - 2021** Develop and execute creative concepts for various digital and print projects, including branding, marketing collateral, social media graphics.",
+        "date": "2020"
+      },
+      {
+        "description": "**2021 - Present** Conceptualize and create visually captivating motion graphics for a wide range of projects, including advertisements, explainer videos, title sequences, and animated infographics.",
+        "date": "2021"
+      }
+    ]
+  },
+  "coverLetter": {
+    "title": "Cover letter",
+    "description": "I am writing to express my strong interest in the position of Graphic Designer and Motion Graphics Editor.",
+    "paragraphes": [
+      "As a graphic designer with 2 years of experience, I have developed a keen eye for aesthetics, composition, and branding. I have successfully collaborated with clients and creative teams to translate their visions into compelling designs across various digital and print mediums. Whether it's creating impactful social media graphics, designing marketing collateral, or developing cohesive brand identities, I am committed to delivering innovative and visually appealing solutions that captivate audiences.",
+      "Throughout my career, I have consistently demonstrated my ability to manage multiple projects, meet deadlines, and maintain a high level of attention to detail. I thrive in fast-paced environments and excel in collaborating with cross-functional teams to deliver exceptional results.",
+      "I am excited about the opportunity to contribute my skills and creativity to the talented team at [Company Name]. I am confident that my passion for design, combined with my technical expertise, make me a strong fit for this role. I would welcome the opportunity to discuss how my skills and experience align with your company's goals and contribute to its continued success."
+    ]
+  }
+}

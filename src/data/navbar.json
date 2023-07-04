@@ -1,0 +1,45 @@
+{
+  "navLinks": [{
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "service",
+      "text": "Service"
+    },
+
+    {
+      "to": "portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "to": "resume",
+      "text": "Resume"
+    },
+    {
+      "to": "skills",
+      "text": "Skills"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "navInfo": [{
+      "title": "NAME",
+      "text": "Prince Dudhatra"
+    },
+    {
+      "title": "ROLE",
+      "text": "Graphic Designer & Video Editor"
+    },
+    {
+      "title": "EMAIL",
+      "text": "Princedudhatra1629898@gmail.com"
+    },
+    {
+      "title": "PHONE",
+      "text": "(+91) 63525 20153"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Services",
+  "description": "Certainly! I can assist you with various aspects of graphic design. Whether you need help creating a logo, designing a brochure.",
+  "paragraphes": [
+    "1. Logo Design: I can create a unique and visually appealing logo that represents your brand or business.",
+    "2. Print Design: If you need assistance with creating flyers, posters, brochures, or any other printed materials, I can design them for you.",
+    "3. Social Media Graphics: Whether you need graphics for Facebook, Instagram, Twitter, or other social media platforms, I can design eye-catching visuals to help you engage your audience."
+  ],
+
+  "servicesBoxes": [{
+      "imageAltText": "serv icon",
+      "servTitle": "Graphic Design",
+      "servDesc": "graphic design. Whether you need help creating a logo, designing a brochure,",
+      "className": "service-holder"
+    },
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "Video Editing",
+      "servDesc": "Video editing involves arranging and manipulating video footage, adding transitions, effects, and audio to create a final polished product",
+      "className": "service-holder m-right-0"
+    },
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "Expaliner Videos",
+      "servDesc": "Creating an explainer video is a fantastic way to convey complex ideas or messages in a simple and engaging manner.",
+      "className": "service-holder m-bottom-0"
+    },
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "2D Animation",
+      "servDesc": "Creating a 2D animation is a wonderful way to bring characters, stories, and ideas to life.",
+      "className": "service-holder m-right-0 m-bottom-0"
+    }
+  ]
+}

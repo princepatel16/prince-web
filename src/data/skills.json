@@ -1,0 +1,39 @@
+{
+  "title": "Skills",
+
+  "circleProgress": [{
+      "title": "After Effects",
+      "percentage": 90
+    },
+    {
+      "title": "Adobe AI",
+      "percentage": 70
+    },
+    {
+      "title": "Photoshop",
+      "percentage": 70
+    },
+    {
+      "title": "Premier pro",
+      "percentage": 65
+    }
+  ],
+
+  "horizontalProgress": [{
+      "title": "Creativity",
+      "percentage": 80
+    },
+    {
+      "title": "Graphic Design",
+      "percentage": 90
+    },
+    {
+      "title": "Video Editing",
+      "percentage": 100
+    },
+    {
+      "title": "Explainer Video",
+      "percentage": 80
+    }
+  ]
+}
